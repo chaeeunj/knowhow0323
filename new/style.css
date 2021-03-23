@@ -1,0 +1,46 @@
+body{
+    background-image: url(bear.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    text-align: center;
+    background-color: beige;
+    width: 500px;
+    padding: 30px;
+    border: 10px burlywood solid;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-top: 70px;
+
+  }
+  h1{
+      color: brown;
+  }
+  .bear-ul{
+    margin-left: 10px;
+    margin-top: 100px;
+}
+ul{
+    text-align: left;
+    width: 100px;
+    margin: 0 auto;
+}
+a {
+    color: brown;
+    text-decoration: none;
+  }
+  a:hover {
+    color: brown;
+  }
+  .welcome{
+      width: 200px;
+      height: 200px;
+      background-color: #ddb892;
+      margin-left: 400px;
+      margin-top: 100px;
+  }
+  .welcome h1{
+      margin-top: 80px;
+  }
